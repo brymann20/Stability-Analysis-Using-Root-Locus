@@ -5,10 +5,16 @@ To analyse the stability of the system having open loop transfer function, G(S)=
 Computer with MATLAB software
 
 ## Theory:
-![WhatsApp Image 2025-11-27 at 18 18 52_e887084d](https://github.com/user-attachments/assets/4f00f87c-e64f-4b85-908b-83f173f7353c)
-![WhatsApp Image 2025-11-27 at 18 18 52_02dc167f](https://github.com/user-attachments/assets/e657fe28-697b-4183-bbe2-5f495f56b0eb)
-![WhatsApp Image 2025-11-27 at 18 18 51_fea84f47](https://github.com/user-attachments/assets/2b8c38c4-0052-4606-a66c-099e0b48f3dc)
-![WhatsApp Image 2025-11-27 at 18 18 51_41b51777](https://github.com/user-attachments/assets/f5061c63-b10b-498d-a503-88c8ff6dff8a)
+Open MATLAB software
+Open a new script file.
+Type the program.
+Save and Execute the program.
+Click on the crossing point of the root locus to find the value of K and poles at the crossing point.
+From the value of K, analyse the stability.
+![WhatsApp Image 2025-11-27 at 23 16 05_03aaab3f](https://github.com/user-attachments/assets/52061395-55bb-4419-9aa0-18ec2d2cfc91)
+![WhatsApp Image 2025-11-27 at 23 16 05_ae8afa65](https://github.com/user-attachments/assets/c1589619-773c-4cf8-afed-e2b751425e28)
+![WhatsApp Image 2025-11-27 at 23 16 05_693a334a](https://github.com/user-attachments/assets/4a6e4dfc-1bb3-4a54-b1ec-6dc00fcbe975)
+![WhatsApp Image 2025-11-27 at 23 16 06_185b0a13](https://github.com/user-attachments/assets/1ce3dfc5-1198-4a54-a8da-f499ad514f9a)
 
 
 
