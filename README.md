@@ -5,9 +5,10 @@ To analyse the stability of the system having open loop transfer function, G(S)=
 Computer with MATLAB software
 
 ## Theory:
-<img width="982" height="1600" alt="image" src="https://github.com/user-attachments/assets/8ee4638f-ae68-4711-a365-c2b7eb75109a" />
-
-<img width="982" height="1600" alt="image" src="https://github.com/user-attachments/assets/36bc941e-7015-48c6-9336-44423a3230e3" />
+![WhatsApp Image 2025-11-27 at 18 18 52_e887084d](https://github.com/user-attachments/assets/4f00f87c-e64f-4b85-908b-83f173f7353c)
+![WhatsApp Image 2025-11-27 at 18 18 52_02dc167f](https://github.com/user-attachments/assets/e657fe28-697b-4183-bbe2-5f495f56b0eb)
+![WhatsApp Image 2025-11-27 at 18 18 51_fea84f47](https://github.com/user-attachments/assets/2b8c38c4-0052-4606-a66c-099e0b48f3dc)
+![WhatsApp Image 2025-11-27 at 18 18 51_41b51777](https://github.com/user-attachments/assets/f5061c63-b10b-498d-a503-88c8ff6dff8a)
 
 
 
@@ -30,10 +31,7 @@ rlocus(sys);
 [k,poles]=rlocfind(sys)
 ```
 ## Output:
-<img width="1736" height="868" alt="Screenshot 2025-11-15 225939" src="https://github.com/user-attachments/assets/7a4012a2-03de-4cda-acd5-991c6cd577f8" />
-
-<img width="274" height="275" alt="Screenshot 2025-11-15 074942" src="https://github.com/user-attachments/assets/ec62a2cb-5851-4706-898b-a4bd95e7f603" />
-
+<img width="699" height="626" alt="image" src="https://github.com/user-attachments/assets/efb210b9-801d-4a1a-b603-66c56093cb8b" />
 
 ## Result:
-Thus the root locus for the given transfer function was drawn and verified using MATLAB. The conditions for stability is ------------
+Thus the root locus for the given transfer function was drawn and verified using MATLAB. The conditions for stability is 744.551 .
